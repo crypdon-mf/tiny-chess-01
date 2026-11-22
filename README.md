@@ -28,3 +28,6 @@ never a clock, so a trial replays deterministically.
 
 - `main.py` — the whole engine, 4,081 bytes.
 - `LICENSE` — MIT.
+
+---
+Built for the make.fun bounty — try it yourself: https://make.fun/r/tw2c9rvf
